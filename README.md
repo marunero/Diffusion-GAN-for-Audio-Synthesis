@@ -18,16 +18,24 @@ Repository for Group Project of CS570, KAIST, 2023 Spring
 ## About the Code
 
 
-### Pre-processing & Training
+### Pre-processing
+Use mel() function in wav2mel.py
+```bash
+$ 
+```
 
-1.
-2. 
-3. Export your private key for the current session.
-
+### Training
+etc
 ```bash
 $ export GOOGLE_APPLICATION_CREDENTIALS="/path/to/google_api_key.json"
 ```
 
+### Convert Mel-spectrogram to audio
+Use mel2wav() function in mel2wav.py
+```bash
+$ 
+```
+result .wav file will be saved
 
 ### Collaborator
 > Sorted by Korean alphabetical order

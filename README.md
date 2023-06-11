@@ -27,7 +27,7 @@ $
 ### Training
 etc
 ```bash
-$ export GOOGLE_APPLICATION_CREDENTIALS="/path/to/google_api_key.json"
+$ 
 ```
 
 ### Convert Mel-spectrogram to audio

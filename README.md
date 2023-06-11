@@ -1,1 +1,38 @@
-# Diffusion-GAN-for-Audio-Synthesis
+# CS570 Artificial Intelligence and Machine Learning
+Repository for Group Project of CS570, KAIST, 2023 Spring
+
+## About the Course
+
+> Please refer to the [syllabus](https://cais.kaist.ac.kr/syllabusInfo?year=2023&term=1&subject_no=36.570&lecture_class=&dept_id=4421)
+
+## About the Project
+
+>  **Diffusion-GAN Model for Audio Synthesis**
+
+### Reports
+* Report
+* Demo
+
+### Documents
+
+## About the Code
+
+
+### Pre-processing & Training
+
+1.
+2. 
+3. Export your private key for the current session.
+
+```bash
+$ export GOOGLE_APPLICATION_CREDENTIALS="/path/to/google_api_key.json"
+```
+
+
+### Collaborator
+> Sorted by Korean alphabetical order
+* [Hyeongseok Gwak]
+* [Seongho Keum]
+* [Suhwan Sung]
+* [Sungwoo Jeon](https://github.com/marunero)
+

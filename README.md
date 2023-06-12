@@ -32,12 +32,11 @@ Use mel2wav.py to convert from mel.png into output.wav
 ```bash
 $ python mel2wav.py --input mel.png --save output.wav
 ```
-result .wav file will be saved
 
 ### Collaborator
 > Sorted by Korean alphabetical order
-* [Hyeongseok Gwak]
-* [Seongho Keum]
-* [Suhwan Sung]
+* [Hyeongseok Gwak](https://github.com/khs5696)
+* [Seongho Keum](https://github.com/Seongho18)
+* [Suhwan Sung](https://github.com/yominx)
 * [Sungwoo Jeon](https://github.com/marunero)
 

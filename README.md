@@ -25,10 +25,7 @@ $
 ```
 
 ### Training
-etc
-```bash
-$ 
-```
+We utilized the publicly accessible source code of [Diffwave](https://github.com/lmnt-com/diffwave) and [Diffusion-GAN](https://github.com/Zhendong-Wang/Diffusion-GAN) for our project
 
 ### Convert Mel-spectrogram to audio
 Use mel2wav() function in mel2wav.py

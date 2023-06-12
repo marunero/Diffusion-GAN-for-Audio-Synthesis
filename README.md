@@ -15,7 +15,7 @@ Repository for Group Project of CS570, KAIST, 2023 Spring
 ## About the Project
 
 >  **Diffusion-GAN Model for Audio Synthesis**
-![Report](./Diffusion-GAN Model for Audio Synthesis.pdf)
+![Report](./Diffusion-GAN_Model_for_Audio_Synthesis.pdf)
 
 ### Overview of architecture
 ![architecture](./DiffGan_overview.png)

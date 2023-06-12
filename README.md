@@ -9,14 +9,10 @@ Repository for Group Project of CS570, KAIST, 2023 Spring
 
 >  **Diffusion-GAN Model for Audio Synthesis**
 
-### Reports
-* Report
-* Demo
-
-### Documents
+### Demo
+Our Diffusion-GAN melspectrogram result (100 samples) is in diffgan_output.zip. You can convert each melspectrogram .png file into .wav
 
 ## About the Code
-
 
 ### Pre-processing
 Use wav2mel.py to convert from audio.wav into mel.png
